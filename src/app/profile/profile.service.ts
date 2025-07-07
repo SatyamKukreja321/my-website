@@ -181,10 +181,10 @@ export class ProfileService {
     },
 
   ]
-  about2 = `Software Developer with 2.5+ years of experience .
+  about2 = `Software Developer with ~4 years of experience .
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
   Expertise in Angular 2+ All versions, React, Javascript,  Node JS and UI with Responsive Designs .
-  Have good understanding of Python, Jquery, Bootstrap, MongoDB, Firebase, and MYSQL`
+  Have good understanding of HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, Angular Material, FIGMA, and GIT`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
   resumeurl = "https://docs.google.com/document/d/1WODFuhIzQw2AXPsjt6f3rs-EDWhdhT8s89fOTrGRh70/edit?usp=sharing"

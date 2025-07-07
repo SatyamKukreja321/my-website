@@ -5030,7 +5030,15 @@ img {
 }
 
 .cc-instagram:hover i {
-  color: #405de6;
+  color: #8840e6;
+}
+
+.cc-linkedin:hover i {
+  color: #0a66c2;
+}
+
+.cc-github:hover i {
+  color: black;
 }
 
 /* Credit Style */

@@ -26,3 +26,23 @@ div,p,h1,h2,h3,h4,h5,h6,li,span{
     align-items: center;
     justify-content: center;
 }
+
+// .page-content {
+//   background-color: #d5b2b2;
+//   // cursor: pointer;
+//   // color: #2d2a2a;
+// }
+
+/* LIGHT THEME */
+.light-theme{
+  background-color: #ffffff;
+  cursor: pointer;
+  color: #000000;
+}
+
+/* DARK THEME */
+.dark-theme{
+  background-color: #000000;
+  cursor: pointer;
+  color: #000000;
+}
